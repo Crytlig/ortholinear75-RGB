@@ -1,0 +1,6 @@
+make.exe --dry-run --always-make --keep-going --print-directory
+make: Entering directory 'c:/Users/crytl/Desktop/ortholinear75-RGB'
+make: Leaving directory 'c:/Users/crytl/Desktop/ortholinear75-RGB'
+ 
+make: *** No targets specified and no makefile found.  Stop.
+
